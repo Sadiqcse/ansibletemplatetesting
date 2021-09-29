@@ -8,8 +8,6 @@ sudo apt install nginx -y
 sudo apt install python-apt -y
 sudo apt install -y git stress
 sudo git clone -b aws-autoscaling https://github.com/Sadiqcse/ansibletemplatetesting.git /myrepo
-
-
 ######GIVE ONLY ABOVE IN THE USER DATA FOR AMI IMAGE FOR AWS AUTOSCALING##########
 #
 #####GIVE BELOW IN THE LAUNCH CONFIG USERDATA#####################################
